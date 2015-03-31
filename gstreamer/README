@@ -1,0 +1,235 @@
+C:\gstreamer\1.0\x86_64\bin>gst-launch-1.0.exe ksvideosrc device-index=1 ! decod
+ebin ! autovideosink
+Setting pipeline to PAUSED ...
+Pipeline is live and does not need PREROLL ...
+Setting pipeline to PLAYING ...
+New clock: GstSystemClock
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+WARNING: from element /GstPipeline:pipeline0/GstAutoVideoSink:a
+(gst-launch-1.0:5788): Gutovideosink0/GstD3DVideoSink:autovideosink0-actual-sink
+S-dt3dvideo: A lot of buffers are breameeing dr-ropped.
+CRITAddiICAL **: write map requested on nontional debug info:
+gstbase-writable buffer
+sink.c(2794): gst_base_sink_is_too_late (): /GstPipeline:pipeline0/GstAutoVideoS
+ink:autovideosink0/GstD3DVideoSink:autovideosink0-actual-sink-d3dvideo:
+There m
+(gstay be a timestamping problem, -or this computer is too slowlaunch-1.0:5788.
+): GStreamer-CRITICAL **: write map requested on non-writable buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+WARNING: from element /GstPipeline:pipeline0/GstAu
+(gst-launch-1.0:5788): GStreamer-CRtoVideoSink:autovideosink0/GstD3DVideoSink:au
+tovideosink0-actual-sinIk-d3dvideo: A lot of buffers are being dropped.
+TICAL **: write map requAdditionestedal debug info on non-writable buffer:
+gstbasesink.c(2794): gst_base_sink_is_too_late (): /
+GstPipeline:pipeline0/GstAutoVideoSink:autovideosink0/
+G(stD3DgVst-launch-1.0:5788): GStreamer-CRITICideoSink:aAL **: write map request
+ed on non-writable buffer
+utovideosink0-actual-sink-d3dvideo:
+There may be a timestamping problem, or this computer is too slow.
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+WARNING: from element /GstPipeline:pipeline0/GstAutoVideoSink:autovideosink0/Gst
+D3DVi
+(deoSgsink:autovideost-linkaunch-1.0:570-actual-sink-d3dvideo: A lot of88): GStr
+eamer-CRITICAL **: write m buffers are being dropped.
+ap requested on non-writable buffer
+Additional debug info:
+gstbasesink.c(2794): gst_base_sink_is_too_late (): /GstPipeline:pipeline0/GstAut
+oVi
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+deoSink:autovideosink0/GstD3DVideoSink:autovideosink0-actual-sink-d3dvideo:
+There may be a timestamping problem, or this computer is too slow.
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+WARNING: from element /GstPipeline:pipeline0/GstAutoVideoS
+(ink:augtovideosink0/Gstst-launch-1.0:5788): GStreameD3DVideoSink:autovideosinkr
+-C0-actual-sink-d3dvideo: A lot of buffers are being dropped.
+RITICAL **: write map requested on non-writable buffer
+Additional debug info:
+gstbasesink.c(2794): gst_base_sink_is_too_late (): /GstPipeline:pipeline0/GstAut
+oVideoSink:autovideosink0/GstD3DVideoSink:autovideosink0-actual-s
+(ink-d3dvideo:
+Tghsetre may be a timestamping problem, or this computer is too slow.
+-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writable bu
+ffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+WARNING: from element /GstPipeline:pipeline0/GstAutoVideoSink:autovideos
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+ink0/GstD3DVideoSink:autovideosink0-actual-sink-d3dvideo: A lot of buffers are b
+eing dropped.
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+Additional debug info:
+gstbasesink.c(2794): gst_base_sink_is_too_late (): /GstPipeline:pipeline0/GstAut
+oVideoSink:autovideosink0/GstD3DVideoSink:autovideosink0-actual-sink-d3dvi
+(gst-launch-1.0:5788): GStreamerdeo:
+There may be a timestamping problem, or this computer is too slow.
+-CRITICAL **: write map requested on non-writable buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+
+(gst-launch-1.0:5788): GStreamer-CRITICAL **: write map requested on non-writabl
+e buffer
+ERROR: from element /GstPipeline:pipeline0/GstAutoVideoSink:autovideosink0/GstD3
+DVideoSink:autovideosink0-actual-sink-d3dvideo: Output window was closed
+Additional debug info:
+d3dhelpers.c(1824): d3d_render_buffer (): /GstPipeline:pipeline0/GstAutoVideoSin
+k:autovideosink0/GstD3DVideoSink:autovideosink0-actual-sink-d3dvideo
+Execution ended after 0:00:01.446325198
+Setting pipeline to PAUSED ...
+Setting pipeline to READY ...
+Setting pipeline to NULL ...
+Freeing pipeline ...
